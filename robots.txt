@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.quicksum.me/
+Host: https://www.quicksum.me
 
 # Sitemaps
 Sitemap: https://www.quicksum.me/sitemap.xml

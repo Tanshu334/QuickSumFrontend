@@ -2,8 +2,5 @@
 User-agent: *
 Allow: /
 
-# Host
-Host: www.quicksum.me
-
 # Sitemaps
 Sitemap: https://www.quicksum.me/sitemap.xml
